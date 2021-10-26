@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(94, 172, 172);
+
+}
+
+.nav {
+    background-color:rgb(30, 116, 108) !important;
+    text-decoration: none !important;
+    color: black !important;
+    font-weight: 500px !important;
+}
+
+.btn {
+    text-decoration: none !important;
+    color: black !important;
+    font-weight: 100px !important;
+    ;
+}
+.card-body {
+    background-color:rgb(125, 173, 169) !important;
+    outline-color: rgb(125, 173, 169) !important ;
+}
+
+.card {
+    background-color:rgb(125, 173, 169) !important;
+    outline-color: rgb(125, 173, 169) !important ;
+}
